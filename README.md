@@ -8,9 +8,10 @@ notes: git branch branchName
 
 03) git chcekout may-2024-ganesh
 
-do some changes in project or project's file now need to commit and push all changes to the same branch 
+notes: do some changes in project or project's file now need to commit and push all changes to the same branch 
 
-git add file name where we made changes 
+notes: git add file name where we made changes 
+
 04) git add src/main/java/com/joblesslab/spring/datajpa/controller/TutorialController.java
 
 05) git status
