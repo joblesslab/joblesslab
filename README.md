@@ -13,12 +13,12 @@ do some changes in project or project's file now need to commit and push all cha
 git add file name where we made changes 
 04) git add src/main/java/com/joblesslab/spring/datajpa/controller/TutorialController.java
 
-05)git status
+05) git status
 
-06)git commit -m "add note in controller class"
+06) git commit -m "add note in controller class"
 
-07)git status
+07) git status
 
-08)git push origin may-2024-ganesh
+08) git push origin may-2024-ganesh
 
 
