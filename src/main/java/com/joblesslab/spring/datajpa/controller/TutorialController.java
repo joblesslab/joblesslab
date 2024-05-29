@@ -20,7 +20,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.joblesslab.spring.datajpa.model.Tutorial;
 import com.joblesslab.spring.datajpa.repository.TutorialRepository;
-
+//notes: git branch branchName
+//git branch may-2024-ganesh
+//git chcekout may-2024-ganesh
 @CrossOrigin(origins = "http://localhost:8081")
 @RestController
 @RequestMapping("/api")
